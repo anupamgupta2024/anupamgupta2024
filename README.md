@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Anupam Raj Gupta
 
-<!--
-**anupamgupta2024/anupamgupta2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (Laravel, PHP, JS)  
+🚀 Building scalable web applications  
+📍 Nepal / India  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- PHP, Laravel
+- HTML, CSS, JavaScript
+- MySQL
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Currently Working On
+- Business Mall Project
+- Custom Chat System
+- Admin Dashboards
+
+## 📫 Connect with me
+- GitHub: https://github.com/anupamgupta2024
+- LinkedIn: (add link)
+
